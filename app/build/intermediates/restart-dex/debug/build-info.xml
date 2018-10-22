@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="8210761258932"
+    token="2869322853170351942" >
+
+    <task
+        name="javac"
+        duration="953" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="348" />
+    <task
+        name="verifier"
+        duration="58" />
+
+    <artifact
+        location="/Users/ohsanghun/Documents/AndroidStudioProjects/AndroidAppWithoutEvening/niceHabit_v0.9/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="8210761258932" >
+        <artifact
+            location="/Users/ohsanghun/Documents/AndroidStudioProjects/AndroidAppWithoutEvening/niceHabit_v0.9/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

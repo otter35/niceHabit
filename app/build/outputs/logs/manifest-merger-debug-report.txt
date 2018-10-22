@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/a394160f56de4123bcb0b03379a9bb24/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/244a6c44756029efc903fcf6fc6e0839/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.3.4.aar/1d3ae888c0f48028cd6ba119ec275c48/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/c85effbf6ebf4de8a04065c4b6dbc05b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/28f87df375a8b7166d9eef62c3876519/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/1e8b07a63b3426bdf8bf1a8b5ae37c3a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/e862040fcebff4ab03674fc0dc28b915/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/89db28ec008c80c01f17e40e966a53b0/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:9:22-76
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:11:5-12:66
+	android:value
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:12:9-64
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:11:16-61
+application
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:14:5-28:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/a394160f56de4123bcb0b03379a9bb24/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/a394160f56de4123bcb0b03379a9bb24/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/244a6c44756029efc903fcf6fc6e0839/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/244a6c44756029efc903fcf6fc6e0839/AndroidManifest.xml:19:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.3.4.aar/1d3ae888c0f48028cd6ba119ec275c48/AndroidManifest.xml:7:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.3.4.aar/1d3ae888c0f48028cd6ba119ec275c48/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/c85effbf6ebf4de8a04065c4b6dbc05b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/c85effbf6ebf4de8a04065c4b6dbc05b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/28f87df375a8b7166d9eef62c3876519/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/28f87df375a8b7166d9eef62c3876519/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/1e8b07a63b3426bdf8bf1a8b5ae37c3a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/1e8b07a63b3426bdf8bf1a8b5ae37c3a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/e862040fcebff4ab03674fc0dc28b915/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/e862040fcebff4ab03674fc0dc28b915/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/89db28ec008c80c01f17e40e966a53b0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/89db28ec008c80c01f17e40e966a53b0/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.ohsanghun.nicehabit.MainActivity
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.ohsanghun.nicehabit.HabitActivity
+ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml:27:19-48
+uses-sdk
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/a394160f56de4123bcb0b03379a9bb24/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/a394160f56de4123bcb0b03379a9bb24/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/244a6c44756029efc903fcf6fc6e0839/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-location-7.3.0.aar/244a6c44756029efc903fcf6fc6e0839/AndroidManifest.xml:18:5-42
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.3.4.aar/1d3ae888c0f48028cd6ba119ec275c48/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.3.4.aar/1d3ae888c0f48028cd6ba119ec275c48/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/c85effbf6ebf4de8a04065c4b6dbc05b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/c85effbf6ebf4de8a04065c4b6dbc05b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/28f87df375a8b7166d9eef62c3876519/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/28f87df375a8b7166d9eef62c3876519/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/1e8b07a63b3426bdf8bf1a8b5ae37c3a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.3.0.aar/1e8b07a63b3426bdf8bf1a8b5ae37c3a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/e862040fcebff4ab03674fc0dc28b915/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/e862040fcebff4ab03674fc0dc28b915/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/89db28ec008c80c01f17e40e966a53b0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/support-v4-24.0.0.aar/89db28ec008c80c01f17e40e966a53b0/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/a394160f56de4123bcb0b03379a9bb24/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+		ADDED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/janevallette/Downloads/niceHabit_v0.9/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-base:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/e862040fcebff4ab03674fc0dc28b915/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-base:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/e862040fcebff4ab03674fc0dc28b915/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:7.3.0] /Users/janevallette/.gradle/caches/transforms-1/files-1.1/play-services-base-7.3.0.aar/e862040fcebff4ab03674fc0dc28b915/AndroidManifest.xml:22:13-58
